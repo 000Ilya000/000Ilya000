@@ -43,7 +43,7 @@ I am a junior front-end developer. I have been living in the IT world for 2 year
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
