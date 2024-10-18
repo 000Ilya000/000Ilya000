@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a junior front-end developer. I have been living in the IT world for 2 years already, I have taken courses, trained myself by books and videos src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">. I like to learn something new, to test myself with different tasks
+I am a junior front-end developer. I have been living in the IT world for 2 years already, I have taken courses, trained myself by books and videos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/>. I like to learn something new, to test myself with different tasks
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
