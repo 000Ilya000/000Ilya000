@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a junior front-end developer. I have been living in the IT world for 2 years already, I have taken courses, trained myself by books and videos. Currently I work in the company <a href="https://steizar.com/">STEIZAR</a> on the position of junior front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">. I like to learn something new, to test myself with different tasks
+I am a junior front-end developer. I have been living in the IT world for 2 years already, I have taken courses, trained myself by books and videos. Currently  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">. I like to learn something new, to test myself with different tasks
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -13,7 +13,7 @@ I am a junior front-end developer. I have been living in the IT world for 2 year
 
 - :telescope: Completed the UDEMY front-end developer course.
 
-- :seedling: Got an internship <a href="https://steizar.com/">STEIZAR</a> 
+- :seedling: Got an internship 
 
 - :zap: Together with the team closed more than 4 projects.
 
